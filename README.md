@@ -1,4 +1,4 @@
-# Rollups
+# List with educational sources to develop a deep understanding of Rollups
 
 
 | Feature                | ZK Rollups                                     | Optimistic Rollups                             |
